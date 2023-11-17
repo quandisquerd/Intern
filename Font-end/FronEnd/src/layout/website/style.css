@@ -1,0 +1,4 @@
+.none::after {
+    content: none;
+    /* Xóa pseudo-element ::after */
+}

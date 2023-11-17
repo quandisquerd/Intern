@@ -1,0 +1,1 @@
+export const pause = (time: any) => new Promise((resolve) => setTimeout(resolve, time))
